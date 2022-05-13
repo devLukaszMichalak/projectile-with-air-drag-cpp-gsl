@@ -6,11 +6,11 @@ More info on projectaile motion: [wikipedia](https://en.wikipedia.org/wiki/Proje
 The program requires gsl to compile. It was tested with version 2.5 and 2.7.1. For more info on GNU Scientific Library go to: [gsl](https://www.gnu.org/software/gsl/).
 
 # Rzut ukośny z oporem powietrza
-Program do obliczania trajektorii pocisku z oporem powietrza za pomocą cpp i gsl. Tworzy pliki z danymi, które można łatwo wykreślić za pomocą programów, takich jak gnuplot.
+Program do obliczania trajektorii pocisku z oporem powietrza za pomocą cpp i gsl. Tworzy pliki z danymi, które można łatwo wykreślić za pomocą programów, takich jak gnuplot. Więcej informacji o rzucie ukośnym: [wikipedia](https://pl.wikipedia.org/wiki/Rzut_ukośny_(fizyka)).
 
 ## Biblioteka naukowa GNU
 Program wymaga gsl do kompilacji. Został przetestowany w wersji gsl 2.5 i 2.7.1. Więcej informacji na temat Biblioteki Naukowej GNU można znaleźć na stronie: [gsl](https://www.gnu.org/software/gsl/).
-Więcej informacji o rzucie ukośnym: [wikipedia](https://pl.wikipedia.org/wiki/Rzut_ukośny_(fizyka)).
+
 
 ## Przykładowe wyniki
 Wygenerowanie wyniki można porównać z [wykresem](https://en.wikipedia.org/wiki/File:Mplwp_ballistic_trajectories_velocities.svg).
